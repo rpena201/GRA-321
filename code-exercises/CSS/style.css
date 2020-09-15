@@ -1,6 +1,6 @@
 .container {
     background-image: url(../img/mountains.jpeg);
-    height:250px;
+    height:100%;
     background-size: cover;
     margin:0 auto;
     width:100%;
