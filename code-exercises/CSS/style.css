@@ -30,12 +30,6 @@ button:hover {
   color: #FFEFD5;
 }
 
-button:active{
-  background-color: #5F9EA0;
-  box-shadow: 0 5px #666666;
-  transform: translateY(4px);
-
-}
 
 h1{
   color: #666;
@@ -43,23 +37,3 @@ h1{
   position:relative;
   text-align: left;
 }
-
-
-
-@media screen and (max-width: 1440px) {
-  body{
-    background-color: #B0E0E6;
-  }
-}
-
-  @media screen and (max-width: 1000px) {
-    body{
-      background-color: #4682B4
-    }
-  }
-
-  @media screen and (max-width: 500px) {
-    body{
-      background-color: #008080
-    }
-  }
