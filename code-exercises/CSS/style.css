@@ -1,3 +1,8 @@
+* {
+background-color: #5F9EA0;
+}
+
+
 .container {
     background-image: url(../img/mountains.jpeg);
     height:100%;
@@ -6,7 +11,13 @@
     width:100%;
 }
 
-
+h2{
+  color: #5F9EA0;
+  font-size: 52px;
+  position:relative;
+  text-align: center;
+  top:200px
+}
 
 
 button {
@@ -24,6 +35,36 @@ button:hover {
   color: #FFEFD5;
 }
 
-a{
-  color: PaleTurquoise;
+button:active{
+  background-color: #5F9EA0;
+  box-shadow: 0 5px #666666;
+  transform: translateY(4px);
+
 }
+
+h1{
+  color: #666;
+  font-size:52px;
+  position:relative;
+  text-align: left;
+}
+
+
+
+@media screen and (max-width: 1440px) {
+  body{
+    background-color: #B0E0E6;
+  }
+}
+
+  @media screen and (max-width: 1000px) {
+    body{
+      background-color: #4682B4
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    body{
+      background-color: #008080
+    }
+  }
