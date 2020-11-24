@@ -1,1 +1,235 @@
+html {
+font-size:16px;
+box-sizing:border-box;
+}
 
+body {
+  background-color: #DDF0D9;
+  width:100%;
+  margin:0;
+  padding:0;
+  }
+
+.CCLogo {
+  width:198px;
+  height: 119px;
+  padding-top: 18px;
+  padding-left: 156px;
+  padding-right: 60px;
+}
+
+.Menu{
+  width:75px;
+  height: 129px;
+  margin-top: 13px;
+  margin-left: 61px;
+  margin-right: 20px;
+  margin-bottom:9px;
+  line-height: 25px;
+  color: #707070;
+  font-size: 20px;
+}
+
+.imgs {
+  padding-top: 9px;
+  padding-left: 60px;
+  padding-right: 60px;
+  display: inline-block;
+}
+
+.about-title, .food, .coffee, .Tea {
+  width:141px;
+  height: 34px;
+  margin-top: 59px;
+  margin-left: 60px;
+  margin-bottom:31px;
+  color: #707070;
+  font: Helvetica 65;
+  font-size: 32px;
+}
+
+.About {
+  width:300px;
+  height: 161px;
+  margin-top: 27px;
+  margin-left: 60px;
+  margin-right:54px;
+  margin-bottom: 130px;
+  color: #707070;
+  font: Helvetica 45;
+  font-size: 17px;
+}
+
+h4{
+  margin-left:60px;
+  margin-top:30px;
+  font: Helvetica 65;
+  font-size:20px;
+  color:#707070;
+}
+
+.food-name {
+  margin-left:60px;
+  color:#707070;
+  font: Helvetica 45;
+  font-size: 16px;
+}
+
+.food-item-row ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+.food-item-row ul li{
+  display: inline-block;
+  width:30%;
+}
+
+.plate-name ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+.plate-name ul li{
+  display: inline-block;
+  width:30%;
+}
+
+.Sandwich-name ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+.Sandwich-name ul li{
+  display: inline-block;
+  width:30%;
+}
+
+.bagels-name ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+.bagels-name ul li{
+  display: inline-block;
+  width:30%;
+}
+
+.coffee ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+.coffee ul li{
+  display: inline-block;
+  width:30%;
+}
+
+.hot-coffee ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+.hot-coffee ul li{
+  display: inline-block;
+  width:30%;
+}
+
+.iced-coffee ul{
+width:60%;
+list-style-type: none;
+float:right;
+text-align:right;
+}
+  .iced-coffee ul li{
+    display: inline-block;
+    width:30%;
+  }
+
+.special-drinks ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+  .special-drinks ul li{
+    display: inline-block;
+    width:30%;
+  }
+
+.Tea ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+.Tea ul li{
+  display: inline-block;
+  width:30%;
+}
+
+.hot-tea ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+.hot-tea ul li{
+  display: inline-block;
+width:30%;
+}
+
+.iced-tea ul{
+  width:60%;
+  list-style-type: none;
+  float:right;
+  text-align:right;
+}
+  .iced-tea ul li{
+    display: inline-block;
+    width:30%;
+  }
+
+  .location{
+    width:141px;
+    height: 34px;
+    margin-top: 59px;
+    margin-bottom:31px;
+    color: #707070;
+    font: Helvetica 65;
+    font-size: 32px;
+  }
+
+.location-buttons{
+  margin-left:60px;
+}
+
+.button{
+  color:#F9E9D7;
+}
+
+.contact-title{
+  width:141px;
+  height: 34px;
+  margin-top: 59px;
+  margin-left:60px;
+  margin-bottom:31px;
+  color: #707070;
+  font: Helvetica 65;
+  font-size: 32px;
+}
+
+.contact{
+  width:192px;
+  height:49px;
+  margin-top: 55px;
+  margin-left:136px;
+  margin-right:87px;
+  margin-bottom:53px;
+}
