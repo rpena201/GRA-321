@@ -246,3 +246,17 @@ body {
     margin-right:87px;
     margin-bottom:53px;
   }
+
+@media(max-width:415px){
+  .img{
+    flex-direction:column;
+  }
+  
+}
+
+@media(max-width:1440px){
+  .img{
+    flex-direction:row;
+  }
+
+}
